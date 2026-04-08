@@ -1,5 +1,5 @@
 # Smart-Campus-Portfolio
-Le code source complet de ce projet est hébergé sur le GitLab privé de l'IUT de La Rochelle et soumis à des restrictions de confidentialité académique. Ce dépôt sert à présenter l'architecture et les compétences travaillées lors du projet.
+Le code source complet de ce projet est accessible sur ma page github ou ici : https://github.com/morgan-vanvelthem/smartCampus
 
 Stack Technique
 Back-end : PHP 8, Symfony 6, API Platform
